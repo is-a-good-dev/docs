@@ -1,3 +1,3 @@
 # Table of contents
 
-* [docs](README.md)
+* [is-a-good-dev](README.md)
