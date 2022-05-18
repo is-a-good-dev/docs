@@ -1,2 +1,3 @@
-# is-a-good-dev
-A free subdomain provider for developers around the globe.
+Documentation for the is-a-good-dev project. 
+
+Found [here](https://docs.is-a-good.dev).
