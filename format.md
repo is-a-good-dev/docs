@@ -26,3 +26,20 @@ When submitting your pull request, we ask that you add your email under the emai
   - *"username"* - This is where you put your Github username.
   - *"email"* - This is where you put your email.
 - *"target"* - This is a category for the record information. 
+  - *"record-type"* - This key will be replaced with either  `A` or `CNAME`. This is where you will add the record type and the target. 
+
+## JSON Example 
+```json
+{
+  "repo":"https://github.com/is-a-good-dev/docs",
+  "owner":{
+    "username":"wclarkey",
+    "email":"will@wclarke.dev"
+   },
+   "target":{
+     "CNAME":"hosting.gitbook.io"
+    }
+}
+```
+
+**If you are unsure about this, [open a new issue](https://github.com/is-a-good-dev/Register/issues/new) and one of the maintainers or contributors will help you out.**
