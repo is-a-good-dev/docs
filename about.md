@@ -18,6 +18,12 @@ The only limitation with hosting currently is with us. We currently don't have t
 find a free hosting service for your website, you are able to use [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 or another free service such as [Replit](https://replit.com).
 
+ ## Project Maintainers
+| **Role**             | **Name** | **Github**                                    |
+|------------------|------|-------------------------------------------|
+| Owner/Maintainer | Will | [wclarkey](https://github.com/wclarkey)   |
+| Maintainer       | Matt | [Tweak4141](https://github.com/Tweak4141) |
+
 ## Inspirations
 This project was inspired by many other similar projects, such as:
 - [is-a-dev](https://github.com/is-a-dev/register)
