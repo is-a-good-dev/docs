@@ -24,6 +24,11 @@ or another free service such as [Replit](https://replit.com).
 | Owner/Maintainer | Will | [wclarkey](https://github.com/wclarkey)   |
 | Maintainer       | Matt | [Tweak4141](https://github.com/Tweak4141) |
 
+## Contact
+If you, for any reason, need to contact us about the project see the contact information below:
+- [Create an issue](https://github.com/is-a-good-dev/Register/issues/new) - *(https://github.com/is-a-good-dev/Register/issues/new)*
+- [Email Will](mailto:will@wclarke.dev) - *(will@wclarke.dev)*
+ 
 ## Inspirations
 This project was inspired by many other similar projects, such as:
 - [is-a-dev](https://github.com/is-a-dev/register)
