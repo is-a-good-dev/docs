@@ -2,7 +2,7 @@
 is-a-good-dev is a sub-domain provider for developers around the world. These sub-domains can be used for pretty much anything, except anything illegal.
 
 Your domain can be anything as long it is not taken or NSFW. Such as `will.is-a-good.dev`. 
-When signing up for a domain you take full responsibility for what is hosted on that domain. If your sub-domain hosts illegal activity, your sub-domain will be terminated and the revelent authoritive services may be contacted. 
+When signing up for a domain you take full responsibility for what is hosted on that domain. If your sub-domain hosts illegal activity, your sub-domain will be terminated and the revelent authoritative services may be contacted. 
 
 ## Domain Limitations
 When signing up for a domain we allow users to chose their choice of sub-domain. This can be anything of your choosing **but** the sub-domain must not be taken by another user. 
