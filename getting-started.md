@@ -7,7 +7,7 @@ Getting started with is-a-good-dev is easy!
   - Name the file according to the sub-domain name that you would like, for example `will.json`
 
     *The file path and name should look somewhat similar to this: `sub-logs/example.json`*
-- Read the format documentation [here](format.json) to see what json format you should be following.
+- Read the format documentation [here](format.md) to see what json format you should be following.
 - Check over your file to make sure that everything looks right. 
 - Make your pull request. 
 - Check up on your pull request. Sometimes we will comment or add a new label, these can mean that you domain is unavailable or something is wrong with the json. If this is the case, don't worry! You are still able to get a domain, but you may have to either change the file name or check over the json again.
