@@ -29,11 +29,11 @@ If you, for any reason, need to contact us about the project see the contact inf
 - [Create an issue](https://github.com/is-a-good-dev/Register/issues/new) - *(https://github.com/is-a-good-dev/Register/issues/new)*
 - [Email Will](mailto:will@wclarke.dev) - *(will@wclarke.dev)*
  
-## Inspirations
-This project was inspired by many other similar projects, such as:
-- [is-a-dev](https://github.com/is-a-dev/register)
-- [js.org](https://github.com/js-org/js.org/)
+**Similar projects include:**
+- [is-a.dev](https://github.com/is-a-dev/register)
+- [js.org](https://github.com/js-org/js.org)
 - [thedev.id](https://github.com/fransallen/thedev.id)
+- [runs-on.tech](https://github.com/aakhilv/runs-on.tech)
 
 If you are looking for other free development projects/services, take a look on [free for dev](https://free-for.dev/#/).
 
