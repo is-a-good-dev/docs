@@ -28,7 +28,7 @@ or another free service such as [Replit](https://replit.com).
 If you, for any reason, need to contact us about the project see the contact information below:
 - [Create an issue](https://github.com/is-a-good-dev/Register/issues/new) - *(https://github.com/is-a-good-dev/Register/issues/new)*
 - [Email Will](mailto:will@wclarke.dev) - *(will@wclarke.dev)*
- 
+---
 **Similar projects include:**
 - [is-a.dev](https://github.com/is-a-dev/register)
 - [js.org](https://github.com/js-org/js.org)
