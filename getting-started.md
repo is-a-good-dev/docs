@@ -15,3 +15,5 @@ Getting started with is-a-good-dev is easy!
 - Once your pull request has been merged, enjoy the sub-domain. If you ever need to change the sub-domain, don't hesitate to open a new pull request to change any of the details.
 
 **If you are unsure about this, [open a new issue](https://github.com/is-a-good-dev/Register/issues/new) and one of the maintainers or contributors will help you out.**
+
+**[Join our Discord](https://discord.gg/ksdQmh6Ru2)**

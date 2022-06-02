@@ -38,3 +38,5 @@ If you, for any reason, need to contact us about the project see the contact inf
 If you are looking for other free development projects/services, take a look on [free for dev](https://free-for.dev/#/).
 
 **If you are unsure about this or anything else, [open a new issue](https://github.com/is-a-good-dev/Register/issues/new) and one of the maintainers or contributors will help you out.**
+
+[Join our Discord](https://discord.gg/ksdQmh6Ru2)
