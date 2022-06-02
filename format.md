@@ -17,7 +17,8 @@ When submitting your pull request, we ask that you add your email under the emai
   },
   "target":{
   "record-type":""
-  }
+  },
+  "proxied": false
 }
 ```
 **Breakdown of json template:**
@@ -27,6 +28,7 @@ When submitting your pull request, we ask that you add your email under the emai
   - *"email"* - This is where you put your email.
 - *"target"* - This is a category for the record information. 
   - *"record-type"* - This key will be replaced with either  `A` or `CNAME`. This is where you will add the record type and the target. 
+- *"proxied"* - Whether you need it proxied through Cloudflare. If you don't know what it means, leave it to false.
 
 ## JSON Example 
 ```json
@@ -38,7 +40,8 @@ When submitting your pull request, we ask that you add your email under the emai
    },
    "target":{
      "CNAME":"hosting.gitbook.io"
-    }
+    },
+    "proxied": false
 }
 ```
 *See the file [here](https://github.com/is-a-good-dev/Register/blob/main/sub-logs/docs.json).*
