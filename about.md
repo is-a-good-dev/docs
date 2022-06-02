@@ -39,4 +39,4 @@ If you are looking for other free development projects/services, take a look on 
 
 **If you are unsure about this or anything else, [open a new issue](https://github.com/is-a-good-dev/Register/issues/new) and one of the maintainers or contributors will help you out.**
 
-[Join our Discord](https://discord.gg/ksdQmh6Ru2)
+**[Join our Discord](https://discord.gg/ksdQmh6Ru2)**
