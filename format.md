@@ -46,7 +46,9 @@ When submitting your pull request, we ask that you add your email under the emai
 ```
 *See the file [here](https://github.com/is-a-good-dev/Register/blob/main/sub-logs/docs.json).*
 
-
+---
 **If you are unsure about this, [open a new issue](https://github.com/is-a-good-dev/Register/issues/new) and one of the maintainers or contributors will help you out.**
 
 **[Join our Discord](https://discord.gg/ksdQmh6Ru2)**
+
+*This page is open source edit it [here](https://github.com/is-a-good-dev/docs/edit/main/format.md)*
