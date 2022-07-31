@@ -31,8 +31,9 @@ If you, for any reason, need to contact us about the project see the contact inf
 ---
 **Similar projects include:**
 - [is-a.dev](https://github.com/is-a-dev/register)
-- [js.org](https://github.com/js-org/js.org)
 - [thedev.id](https://github.com/fransallen/thedev.id)
+- [cluster.ws & wip.la](https://github.com/Olivr/free-domain)
+- [js.org](https://github.com/js-org/js.org) (JavaScript projects only)
 
 If you are looking for other free development projects/services, take a look on [Free for Dev](https://free-for.dev).
 
