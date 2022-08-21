@@ -2,26 +2,25 @@
 
 Following json formats is important as it allows us to easily process your domain without any issues. If the correct json format is not followed, you will be told and the pull request will **not** be merged. 
 
-Currently we only accept `A` and `CNAME` records. If you would like your domain to be redirected, you will have to use external tools such as [redirect.pizza](https://redirect.pizza/) as we don't have the required resources to do this at the moment. 
+Currently we only accept `A` and `CNAME` records. If you would like your domain to be redirected, you will have to use external tools such as [redirect.pizza](https://redirect.pizza) as we don't have the required resources to do this at the moment. 
 
 When submitting your pull request, we ask that you add your email under the email key in the json. This is so that we can contact you if anything is due to change or if your sub-domain has violated laws, terms or anything of that nature. Invalid contact details will be refused a sub-domain. 
 
 ## JSON Format Template
-
 ```json
 {
-  "repo":"", 
-  "owner":{
-    "username":"",
-    "email":""
+  "repo": "",
+  "owner": {
+    "username": "",
+    "email": ""
   },
-  "target":{
-  "record-type":""
+  "target": {
+    "record-type": ""
   },
   "proxied": false
 }
 ```
-**Breakdown of json template:**
+**Breakdown of the JSON template:**
 - *"repo"* - This is your repository, the place where the code for the site is. If you don't have a repository you can leave this blank.
 - *"owner"* - This is a category for your information. This section needs to be filled out, or your PR will **not** be merged.
   - *"username"* - This is where you put your Github username. 
@@ -33,18 +32,18 @@ When submitting your pull request, we ask that you add your email under the emai
 ## JSON Example 
 ```json
 {
-  "repo":"https://github.com/is-a-good-dev/docs",
-  "owner":{
-    "username":"wclarkey",
-    "email":"will@wclarke.dev"
+  "repo": "https://github.com/is-a-good-dev/docs",
+  "owner": {
+    "username": "is-a-good-dev",
+    "email": "will@is-a-good.dev"
    },
-   "target":{
-     "CNAME":"hosting.gitbook.io"
+   "target": {
+     "CNAME": "hosting.gitbook.io"
     },
     "proxied": false
 }
 ```
-*See the file [here](https://github.com/is-a-good-dev/Register/blob/main/sub-logs/docs.json).*
+*You can find the the file [here](https://github.com/is-a-good-dev/register/blob/main/reserved/docs.json).*
 
 ---
-**If you are unsure about this, [open a new issue](https://github.com/is-a-good-dev/Register/issues/new) and one of the maintainers or contributors will help you out.**
+**If you are unsure about this, [open a new issue](https://github.com/is-a-good-dev/register/issues/new) and one of the maintainers or contributors will help you out.**
