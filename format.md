@@ -14,8 +14,9 @@ When submitting your pull request, we ask that you add your email under the emai
     "username": "",
     "email": ""
   },
-  "target": {
-    "record-type": ""
+  "record-type": {
+    "name": "",
+    "value": ""
   },
   "proxied": false
 }
@@ -25,8 +26,9 @@ When submitting your pull request, we ask that you add your email under the emai
 - *"owner"* - This is a category for your information. This section needs to be filled out, or your PR will **not** be merged.
   - *"username"* - This is where you put your Github username. 
   - *"email"* - This is where you put your email.
-- *"target"* - This is a category for the record information. 
-  - *"record-type"* - This key will be replaced with either  `A` or `CNAME`. This is where you will add the record type and the target. 
+- *"record-type"* - This is a category for the record information. 
+  - *"name"* - This is the desired subdomain.
+  - *"value"* - This is the value for the record, for example with an `A` record it would be an IP. 
 - *"proxied"* - Whether you need it proxied through Cloudflare. If you don't know what it means, leave it to false.
 
 ## JSON Example 
@@ -37,8 +39,9 @@ When submitting your pull request, we ask that you add your email under the emai
     "username": "is-a-good-dev",
     "email": "will@is-a-good.dev"
    },
-   "target": {
-     "CNAME": "hosting.gitbook.io"
+   "CNAME": {
+     "name": "docs",
+     "value": "hosting.gitbook.io"
     },
     "proxied": false
 }
