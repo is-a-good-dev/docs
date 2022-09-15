@@ -14,9 +14,11 @@ When submitting your pull request, we ask that you add your email under the emai
     "username": "",
     "email": ""
   },
-  "record-type": {
-    "name": "",
-    "value": ""
+  "target": {
+    "record-type": {
+       "name": "", 
+       "value": ""
+     }
   },
   "proxied": false
 }
@@ -39,9 +41,11 @@ When submitting your pull request, we ask that you add your email under the emai
     "username": "is-a-good-dev",
     "email": "will@is-a-good.dev"
    },
-   "CNAME": {
-     "name": "docs",
-     "value": "hosting.gitbook.io"
+   "target": {
+    "CNAME": {
+       "name": "docs", 
+       "value": "hosting.gitbook.io"
+     }
     },
     "proxied": false
 }
