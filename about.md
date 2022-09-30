@@ -16,16 +16,18 @@ If you would like your domain to redirect, you will have to sort out your own ex
 We currently support almost every single hosting service. There should be no limitation to where you can host your website. 
 The only limitation with hosting currently is with us. We currently don't have the infrastructure to host anyone's websites for them. If you are struggling to find a free hosting service for your website, you are able to use [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) or another free service such as [Replit](https://replit.com).
 
- ## Project Staff
-| **Role** | **Name** | **GitHub** |
-|------------------|------|-------------------------------------------|
-| Owner/Maintainer | Will | [wclarkey](https://github.com/wclarkey) |
-| Maintainer | Matt | [Tweak4141](https://github.com/tweak4141) |
-| Maintainer | Mahir | [MTGSquad](https://github.com/mtgsquad) |
-| Helper | William | [WilliamDavidHarrison](https://github.com/williamdavidharrison) |
+ ## Maintainers
+| **Name** | **Role** | **GitHub Profile** |
+|-|-|-|
+| Will | Owner/Maintainer | [wclarkey](https://github.com/wclarkey) |
+| Matt | Maintainer | [Tweak4141](https://github.com/tweak4141) |
+| Mahir | Maintainer | [mtgsquad](https://github.com/mtgsquad) |
+| William | Helper | [WilliamDavidHarrison](https://github.com/williamdavidharrison) |
+| Acey | Helper | [AceyDoCodes](https://github.com/aceydocodes) |
+| Kamino | Helper | [KaminoCodes](https://github.com/kaminocodes) |
 
 ## Contact
-If you, for any reason, need to contact us about the project see the contact information below:
+If you need to contact us, please refer to the contact methods below:
 - [Create an Issue](https://github.com/is-a-good-dev/register/issues/new)
 - [Email Us](mailto:will@is-a-good.dev)
 
