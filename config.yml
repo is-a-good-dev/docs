@@ -1,0 +1,6 @@
+remote_theme: just-the-docs/just-the-docs
+plugins:
+- jekyll-remote-them
+title: is-a-good-dev
+color_scheme: dark
+search_enabled: true

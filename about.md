@@ -1,4 +1,4 @@
-# About the is-a-good.dev Project
+# About
 is-a-good.dev is a subdomain provider for developers around the world. These subdomains can be used for pretty much anything, except anything illegal.
 
 Your domain can be anything as long it is not taken or NSFW. Such as `will.is-a-good.dev`.
