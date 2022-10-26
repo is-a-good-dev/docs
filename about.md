@@ -22,14 +22,14 @@ We currently support almost every single hosting service. There should be no lim
 The only limitation with hosting currently is with us. We currently don't have the infrastructure to host anyone's websites for them. If you are struggling to find a free hosting service for your website, you are able to use [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) or another free service such as [Replit](https://replit.com).
 
  ## Maintainers
-| **Name** | **Role** | **GitHub Profile** |
-|-|-|-|
-| Will | Owner/Maintainer | [wclarkey](https://github.com/wclarkey) |
-| Matt | Maintainer | [Tweak4141](https://github.com/tweak4141) |
-| Mahir | Maintainer | [mtgsquad](https://github.com/mtgsquad) |
-| William | Helper | [WilliamDavidHarrison](https://github.com/williamdavidharrison) |
-| Acey | Helper | [AceyDoCodes](https://github.com/aceydocodes) |
-| Kamino | Helper | [KaminoCodes](https://github.com/kaminocodes) |
+| **Name** | **Role**              | **Github Profile**                                              |
+|----------|-----------------------|-----------------------------------------------------------------|
+| Will     | Owner / Maintainer    | [wclarkey](https://github.com/wclarkey)                         |
+| Matt     | Co-owner / Maintainer | [Tweak4141](https://github.com/tweak4141)                       |
+| Mahir    | Maintainer            | [mtgsquad](https://github.com/mtgsquad)                         |
+| William  | Helper                | [WilliamDavidHarrison](https://github.com/williamdavidharrison) |
+| Acey     | Helper                | [AceyDoCodes](https://github.com/aceydocodes)                   |
+| Kamino   | Helper                | [KaminoCodes](https://github.com/kaminocodes)                   |
 
 ## Contact
 If you need to contact us, please refer to the contact methods below:
