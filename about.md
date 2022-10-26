@@ -1,3 +1,8 @@
+---
+layout: default
+title: About is-a-good.dev
+nav_order: 3
+---
 # About
 is-a-good.dev is a subdomain provider for developers around the world. These subdomains can be used for pretty much anything, except anything illegal.
 
