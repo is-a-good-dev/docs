@@ -4,3 +4,6 @@ plugins:
 title: is-a-good-dev
 color_scheme: dark
 search_enabled: true
+footer_content: "Copyright &copy; 2022 William Clarke"
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
