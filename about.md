@@ -21,7 +21,7 @@ If you would like your domain to redirect, you will have to sort out your own ex
 We currently support almost every single hosting service. There should be no limitation to where you can host your website. 
 The only limitation with hosting currently is with us. We currently don't have the infrastructure to host anyone's websites for them. If you are struggling to find a free hosting service for your website, you are able to use [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) or another free service such as [Replit](https://replit.com).
 
- ## Maintainers
+ #### Maintainers
  
 | **Name** | **Role**              | **Github Profile**                                              |
 |----------|-----------------------|-----------------------------------------------------------------|
