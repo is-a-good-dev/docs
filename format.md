@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Format types
 nav_order: 2
 ---
 # Formats
