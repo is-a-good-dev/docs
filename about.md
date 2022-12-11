@@ -32,6 +32,7 @@ The only limitation with hosting currently is with us. We currently don't have t
 | William  | Helper                | [WilliamDavidHarrison](https://github.com/williamdavidharrison) |
 | Acey     | Helper                | [AceyDoCodes](https://github.com/aceydocodes)                   |
 | Kamino   | Helper                | [KaminoCodes](https://github.com/kaminocodes)                   |
+| DIBSTER  | Helper                | [DIBSTERYT](https://github.com/DIBSTERYT)                       |
 
 ## Contact
 If you need to contact us, please refer to the contact methods below:
