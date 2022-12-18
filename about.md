@@ -22,31 +22,21 @@ If you would like your domain to redirect, you will have to sort out your own ex
 We currently support almost every single hosting service. There should be no limitation to where you can host your website. 
 The only limitation with hosting currently is with us. We currently don't have the infrastructure to host anyone's websites for them. If you are struggling to find a free hosting service for your website, you are able to use [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) or another free service such as [Replit](https://replit.com).
 
-## Maintainers
+## Our Team
  
-| **Name** | **Role**              | **Github Profile**                                              |
-|----------|-----------------------|-----------------------------------------------------------------|
-| Will     | Owner / Maintainer    | [wclarkey](https://github.com/wclarkey)                         |
-| Matt     | Co-owner / Maintainer | [Tweak4141](https://github.com/tweak4141)                       |
-| Mahir    | Maintainer            | [mtgsquad](https://github.com/mtgsquad)                         |
-| William  | Helper                | [WilliamDavidHarrison](https://github.com/williamdavidharrison) |
-| Acey     | Helper                | [AceyDoCodes](https://github.com/aceydocodes)                   |
-| Kamino   | Helper                | [KaminoCodes](https://github.com/kaminocodes)                   |
-| DIBSTER  | Helper                | [DIBSTERYT](https://github.com/DIBSTERYT)                       |
+| Name | Role | GitHub |
+|:-:|:-:|:-:|
+| Will | Owner / Maintainer | [wclarkey](https://github.com/wclarkey) |
+| Matt | Co-Owner / Maintainer | [Tweak4141](https://github.com/tweak4141) |
+| William | Helper | [WilliamDavidHarrison](https://github.com/williamdavidharrison) |
+| Acey | Helper | [AceyDoCodes](https://github.com/aceydocodes) |
+| Kamino | Helper | [KaminoCodes](https://github.com/kaminocodes) |
+| DIBSTER | Helper | [DIBSTERYT](https://github.com/DIBSTERYT)  |
 
 ## Contact
 If you need to contact us, please refer to the contact methods below:
 - [Create an Issue](https://github.com/is-a-good-dev/register/issues/new)
 - [Email Us](mailto:will@is-a-good.dev)
-
----
-**Similar Projects**
-- [is-a.dev](https://github.com/is-a-dev/register)
-- [thedev.id](https://github.com/fransallen/thedev.id)
-- [cluster.ws & wip.la](https://github.com/Olivr/free-domain)
-- [js.org](https://github.com/js-org/js.org) (JavaScript projects only)
-
-If you are looking for other free development projects/services, take a look on [Free for Dev](https://free-for.dev).
 
 ---
 **If you are unsure about this or anything else, [open a new issue](https://github.com/is-a-good-dev/register/issues/new) and one of the maintainers or helpers will help you out.**
