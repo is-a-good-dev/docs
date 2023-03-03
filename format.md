@@ -62,7 +62,7 @@ When submitting your pull request, we ask that you add your email under the emai
   "proxied": false
 }
 ```
-*You can find the the file [here](https://github.com/is-a-good-dev/register/blob/main/reserved/docs.json).*
+*You can find the the file [here](https://github.com/is-a-good-dev/register/blob/main/sub-logs/reserved/docs.json).*
 
 ---
 **If you are unsure about this, [open a new issue](https://github.com/is-a-good-dev/register/issues/new) and one of the maintainers or helpers will help you out.**
