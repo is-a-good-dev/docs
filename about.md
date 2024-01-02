@@ -28,7 +28,7 @@ The only limitation with hosting currently is with us. We currently don't have t
 |:-:|:-:|:-:|
 | Will | Owner / Maintainer | [wclarkey](https://github.com/wclarkey) |
 | Matt | Co-Owner / Maintainer | [Tweak4141](https://github.com/tweak4141) |
-| William | Helper | [WilliamDavidHarrison](https://github.com/williamdavidharrison) |
+| William | Helper | [wdhdev](https://github.com/wdhdev) |
 | Acey | Helper | [AceyDoCodes](https://github.com/aceydocodes) |
 | Kamino | Helper | [KaminoCodes](https://github.com/kaminocodes) |
 | DIBSTER | Helper | [DIBSTERYT](https://github.com/DIBSTERYT)  |
