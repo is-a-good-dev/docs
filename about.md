@@ -26,8 +26,8 @@ The only limitation with hosting currently is with us. We currently don't have t
  
 | Name | Role | GitHub |
 |:-:|:-:|:-:|
-| Will | Owner | [clarkedev](https://github.com/clarkedev) |
-| Matt | Co-Owner / Maintainer | [Tweak4141](https://github.com/tweak4141) |
+| Matt | Owner | [Tweak4141](https://github.com/tweak4141) |
+| Will | Co-Owner | [clarkedev](https://github.com/clarkedev) |
 | William | Helper | [wdhdev](https://github.com/wdhdev) |
 | Acey | Helper | [AceyDoCodes](https://github.com/aceydocodes) |
 | Kamino | Helper | [KaminoCodes](https://github.com/kaminocodes) |
