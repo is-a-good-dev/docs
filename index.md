@@ -7,10 +7,10 @@ nav_order: 1
 Getting started with is-a-good.dev is easy! 
 
 - [Fork](https://github.com/is-a-good-dev/register/fork) the registration repository. 
-- Create a new file under the `sub-logs` directory.
+- Create a new file under the `domains` directory.
   - Name the file according to the sub-domain name that you would like, for example `will.json`.
 
-    *The file path and name should look somewhat similar to this: `sub-logs/will.json`*
+    *The file path and name should look somewhat similar to this: `domains/will.json`*
 - Read the format documentation [here](format.md) to see what json format you should be following.
 - Check over your file to make sure that everything looks right and matches the format.
 - Open your pull request.
