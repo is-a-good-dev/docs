@@ -25,7 +25,7 @@ When submitting your pull request, we ask that you add your email under the emai
     "<RECORD-TYPE ( REPLACE THIS  WITH A, AAAA, CNAME ) >": {
        "name": "", 
        "value": ""
-     }
+     },
     "<OPTIONAL TXT ( REPLACE THIS  WITH TXT ) >": {
        "name": "TEXT value, if using vercel only use _vercel, not _vercel.domainname", 
        "value": ""
