@@ -28,10 +28,9 @@ The only limitation with hosting currently is with us. We currently don't have t
 |:-:|:-:|:-:|
 | Matt | Owner | [Tweak4141](https://github.com/tweak4141) |
 | Will | Co-Owner | [clarkedev](https://github.com/clarkedev) |
-| William | Helper | [wdhdev](https://github.com/wdhdev) |
 | Acey | Helper | [AceyDoCodes](https://github.com/aceydocodes) |
 | Kamino | Helper | [KaminoCodes](https://github.com/kaminocodes) |
-| DIBSTER | Helper | [DIBSTERYT](https://github.com/DIBSTERYT)  |
+| DIBSTER | Helper | [DIBSTERYT](https://github.com/DEV-DIBSTER)  |
 
 ## Contact
 If you need to contact us, please refer to the contact methods below:
